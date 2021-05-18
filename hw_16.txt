@@ -1,0 +1,3 @@
+Just string
+String for 1st commit
+String for 2nd commit
