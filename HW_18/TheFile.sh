@@ -9,5 +9,5 @@ else
 	export File=$TheFile
 fi
 echo "\$File=$File"
-echo "\$TheFile=$File"
+echo "\$TheFile=$TheFile"
 exit
