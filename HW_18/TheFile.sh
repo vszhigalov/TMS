@@ -8,6 +8,6 @@ else
 	#export File=/tmp/data.file
 	export File=$TheFile
 fi
-echo $File
-echo $TheFile
+echo "\$File=$File"
+echo "\$TheFile=$File"
 exit
