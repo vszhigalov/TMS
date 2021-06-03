@@ -12,7 +12,7 @@
 12) https://telegra.ph/HW-12-Files--System-05-08
 13) https://telegra.ph/HW-13-Ports--Environment-05-08
 14) https://telegra.ph/HW-14-Users--Service-05-09
-15) https://telegra.ph/HW-15-Docker-Network-05-18 - 
+15) https://telegra.ph/HW-15-Docker-Network-05-18
 16) https://telegra.ph/HW-16-Docker-Network-05-18 - Git Rebase
 17) https://telegra.ph/HW-17-Bash-05-22
 18) https://telegra.ph/HW-18-Bash-Variables--Calculations-06-01
