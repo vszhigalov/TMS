@@ -17,3 +17,4 @@
 17) https://telegra.ph/HW-17-Bash-05-22
 18) https://telegra.ph/HW-18-Bash-Variables--Calculations-06-01
 19) https://telegra.ph/HW-19-Bash-Free-Space-06-02
+20) https://telegra.ph/HW-20-Ansible-IP--APT-06-06
