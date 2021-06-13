@@ -1,0 +1,17 @@
+---
+- name: Install packages
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Install packages using loop
+      yum:
+        name: apache2
+        state: latest
+    - name: Copy index.html
+      ansible.builtin.copy:
+        src: /home/course/git/TMS/HW_21/index.html
+        dest: /var/www/html/index.html 
+        #owner: foo
+        #group: foo
+        #mode: '0644'
