@@ -19,3 +19,14 @@
 19) https://telegra.ph/HW-19-Bash-Free-Space-06-02
 20) https://telegra.ph/HW-20-Ansible-IP--APT-06-06
 21) https://telegra.ph/HW-21-HTTP-Server-through-Ansible-06-13
+22) https://telegra.ph/HW-22-Ansible-Portative-07-11
+23) https://telegra.ph/HW-23-Ansible-Portative-07-11
+24) https://telegra.ph/HW-24-ELK-through-Docker-Compose-06-20
+25) https://telegra.ph/HW-25-26-AWS-Create--Billing-07-11
+26) https://telegra.ph/HW-25-26-AWS-Create--Billing-07-11
+27) https://telegra.ph/HW-27-AWS-VPC-07-11
+28) https://telegra.ph/HW-28-Connection-between-VPCs-07-31
+29) https://telegra.ph/HW-29-FSX-08-01
+30) -
+31) https://telegra.ph/HW-31-ECS-Cluster-through-Terraform-08-12
+32) 
