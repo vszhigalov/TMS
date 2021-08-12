@@ -29,4 +29,7 @@
 29) https://telegra.ph/HW-29-FSX-08-01
 30) -
 31) https://telegra.ph/HW-31-ECS-Cluster-through-Terraform-08-12
-32) 
+32) https://telegra.ph/HW-32-Depends-on-Terraform-08-12
+33) https://telegra.ph/HW-33-Backend-Terraform-08-12
+34) https://telegra.ph/HW-34-Lock-state-file-Terraform-08-12
+35) https://telegra.ph/HW-35-Count-symbols-Python-08-12
