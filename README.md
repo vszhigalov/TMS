@@ -33,3 +33,4 @@
 33) https://telegra.ph/HW-33-Backend-Terraform-08-12
 34) https://telegra.ph/HW-34-Lock-state-file-Terraform-08-12
 35) https://telegra.ph/HW-35-Count-symbols-Python-08-12
+36) https://telegra.ph/HW-36-Start-Stop-EC2-Python-08-17
