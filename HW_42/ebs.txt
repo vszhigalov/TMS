@@ -1,0 +1,11 @@
+aws ec2 create-volume \
+    --volume-type gp2 \
+    --size 80 \
+    --encrypted \
+    --kms-key-id eee1b07a-4791-458e-a91c-b32515e6a84f \
+    --availability-zone eu-west-1a
+
+aws ec2 create-volume \
+    --volume-type gp2 \
+    --size 80 \
+    --availability-zone eu-west-1a
