@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: httpd-custom
+spec:
+  selector:
+    matchLabels:
+      app: httpd-custom
+  template:
+    metadata:
+      labels:
+        app: httpd-custom
+    spec:
+      containers:
+      - name: httpd-custom
+        image: vzhyhalau/httpd:latest
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+      - name: regcred
