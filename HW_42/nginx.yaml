@@ -21,4 +21,4 @@ spec:
       name: "http-server"
     volumeMounts:
     - mountPath: "/usr/share/nginx/html"
-      name: myapp-pv
+      name: myapp-pv-storage
