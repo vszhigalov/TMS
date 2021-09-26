@@ -11,4 +11,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/mnt/data"
+    path: "/home/course/git/TMS/HW_42/conf"
