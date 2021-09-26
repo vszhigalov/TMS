@@ -1,7 +1,7 @@
 apiVersion: v1
-kind: PersistentVolumeClaim
+kind: PersistentVolume
 metadata:
-  name: myapp
+  name: myapp-pv
 spec:
   capacity:
     storage: 5Gi
