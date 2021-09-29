@@ -43,7 +43,7 @@
 43) https://telegra.ph/HW-43-Zabbix-K8s-09-26
 44) https://telegra.ph/HW-44-Grafana-K8s-09-26
 45) https://telegra.ph/HW-45-Lens-for-K8s-09-29
-46)
+46) https://telegra.ph/HW-46-CICD-Jenkins-x-K8s-09-29
 47)
 48)
 49)
