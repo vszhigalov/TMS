@@ -34,3 +34,17 @@
 34) https://telegra.ph/HW-34-Lock-state-file-Terraform-08-12
 35) https://telegra.ph/HW-35-Count-symbols-Python-08-12
 36) https://telegra.ph/HW-36-Start-Stop-EC2-Python-08-17
+37) https://telegra.ph/HW-37-MongoDB-08-26
+38) https://telegra.ph/HW-38-K8s-Labels-09-08
+39) https://telegra.ph/HW-39-K8s-Deployment-from-Docker-HUB-09-08
+40) https://telegra.ph/HW-40-Helm-09-08
+41) https://telegra.ph/HW-41-Minikube-09-16
+42) https://telegra.ph/HW-42-Persistent-Volume-K8s-09-26
+43) https://telegra.ph/HW-43-Zabbix-K8s-09-26
+44) https://telegra.ph/HW-44-Grafana-K8s-09-26
+45) https://telegra.ph/HW-45-Lens-for-K8s-09-29
+46)
+47)
+48)
+49)
+50)
