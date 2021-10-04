@@ -11,6 +11,7 @@ resource "aws_ebs_volume" "volume" {
   size              = var.size
 
   tags = {
-    Name = local.ebs_name
+  #Name = local.ebs_name
+  Name = "${terraform.workspace}-ebs"
   }
 }
